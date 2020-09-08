@@ -2,6 +2,8 @@
 
 The goal of this project is to complete an end-to-end data science project on the [Sales of summer clothes in E-commerce Wish dataset](https://www.kaggle.com/jmmvutu/summer-products-and-sales-in-ecommerce-wish).
 
+![Dataset Preview](dataset_preview.jpg)
+
 ## Summary
 
 The [Sales of summer clothes in E-commerce Wish dataset](https://www.kaggle.com/jmmvutu/summer-products-and-sales-in-ecommerce-wish) is a real world e-commerce dataset consisting of product listing from [Wish](https://www.wish.com/search/platform), with features such as price, retail price, ratings count, product sizes and colors, and units sold. This project will provide an end-to-end analysis on this heterogeneous dataset, including data cleaning and exploratory data analysis.
