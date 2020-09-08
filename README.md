@@ -1,4 +1,4 @@
-# Summer Sales Dataset: Factors Affecting Merchang Income
+# Summer Sales: Factors Affecting Merchant Income
 
 The goal of this project is to complete an end-to-end data science project on the [Sales of summer clothes in E-commerce Wish dataset](https://www.kaggle.com/jmmvutu/summer-products-and-sales-in-ecommerce-wish).
 
